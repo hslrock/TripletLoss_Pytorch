@@ -1,7 +1,7 @@
 # Triplet Loss on Iris
 ## _Easy Implementation of Triplet Loss Training on Iris_ 
 
-![](img/triplet_loss.png)
+<img src="img/triplet_loss.png" alt="triplet_loss" width="160"/>
 
 
  In this repo, we attempted to implement triplet loss on Iris Dataset, 
