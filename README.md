@@ -17,3 +17,15 @@ This experiment is done on !reallyreally! simple Iris data, I cannot conclude tr
 
 When we are training with triplet loss, we focused on how three labels get separated. Therefore, intermediate layer fc into '2' is for easy plotting. However, one could try with higher dimension and apply TSNE techniques
 
+
+
+### To Do
+
+- Edit ReadMe
+- Add some pictures
+
+## Reference
+
+Classifying Iris with PyTorch https://janakiev.com/blog/pytorch-iris/
+
+Explanation of Triplet Loss https://medium.com/vitrox-publication/understanding-circle-loss-bdaa576312f7
