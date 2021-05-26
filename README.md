@@ -1,6 +1,9 @@
 # Triplet Loss on Iris
 ## _Easy Implementation of Triplet Loss Training on Iris_ 
 
+![](img/triplet_loss.png)
+
+
  In this repo, we attempted to implement triplet loss on Iris Dataset, 
  we used simple fc networks
 - Training with Cross Entropy (Really Basic)
@@ -29,3 +32,5 @@ When we are training with triplet loss, we focused on how three labels get separ
 Classifying Iris with PyTorch https://janakiev.com/blog/pytorch-iris/
 
 Explanation of Triplet Loss https://medium.com/vitrox-publication/understanding-circle-loss-bdaa576312f7
+
+FaceNet: A Unified Embedding for Face Recognition and Clustering https://arxiv.org/abs/1503.03832
